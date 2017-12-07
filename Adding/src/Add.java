@@ -3,6 +3,15 @@ public class Add {
         int x = 1;
         int total = x + 5;
         System.out.println(total);
+        System.out.println("what are we doing ?");
+        System.out.println("what are we doing ?");
+        System.out.println("what are we doing ?");
+        System.out.println("what are we doing ?");
+        System.out.println("what are we doing ?");
+        System.out.println("what are we doing ?");
+        System.out.println("what are we doing ?");
+        System.out.println("what are we doing ?");
+        System.out.println("what are we doing ?");
     }
 
 }
